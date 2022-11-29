@@ -1,0 +1,23 @@
+[33mcommit d71e9460515de4828462e1ca0d59a41e976f7f5e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Joseph Atzinger <joseph.atzinger@web.de>
+Date:   Tue Nov 29 05:41:48 2022 +0100
+
+    change text color
+
+[33mcommit a6d6825e6ca39a2e3cc1106f2b09399d038274b5[m
+Author: Joseph Atzinger <joseph.atzinger@web.de>
+Date:   Tue Nov 29 05:39:47 2022 +0100
+
+    add basic styles
+
+[33mcommit f3bec4172dc0ae26092cc35c7db9c657645b5e09[m
+Author: Joseph Atzinger <joseph.atzinger@web.de>
+Date:   Tue Nov 29 05:35:52 2022 +0100
+
+    add app logic
+
+[33mcommit 0ddc86734791b7171d82c3039009ba013c8c4be5[m
+Author: Joseph Atzinger <joseph.atzinger@web.de>
+Date:   Tue Nov 29 05:29:39 2022 +0100
+
+    create index.html
